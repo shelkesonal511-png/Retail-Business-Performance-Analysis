@@ -240,10 +240,10 @@ The dashboard helps management:
 # 📷 Dashboard Preview
 
 ### Executive Overview
-"C:\Users\Sonal\OneDrive\Desktop\Retail Business Performance Analysis\Executive_Overview_01.png"
+![Executive Overview Dashboard](Screenshots/Executive_Overview_01.png)
 
 ### Product & Profitability Analysis
-"C:\Users\Sonal\OneDrive\Desktop\Retail Business Performance Analysis\Profitability_&_Product_Analysis_02.png"
+![Profitability & Product Analysis Dashboard](Screenshots/Profitability_&_Product_Analysis_02.png)
 
 ---
 
